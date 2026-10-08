@@ -3,4 +3,6 @@ An end-to-end open-source robotics project featuring custom-designed 3D CAD mode
 
 <img width="328" height="355" alt="Screenshot 2026-10-09 015047" src="https://github.com/user-attachments/assets/c32f101d-45ab-4b6c-84f5-8d587a09c6e0" />
 
-<img width="298" height="375" alt="Screenshot 2026-10-09 015111" src="https://github.com/user-attachments/assets/abab697c-5be3-4468-9e55-b5ceab2f5fb3" />
+<img width="328" height="355" alt="Screenshot 2026-10-09 015111" src="https://github.com/user-attachments/assets/abab697c-5be3-4468-9e55-b5ceab2f5fb3" />
+
+<img width="328" height="355" alt="Screenshot 2026-10-09 003811" src="https://github.com/user-attachments/assets/59800627-55cf-466b-9bdb-b4624ed4f2be" />
